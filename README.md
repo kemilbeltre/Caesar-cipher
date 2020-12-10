@@ -2,11 +2,11 @@
 
 <img src = "img/Caesar_cipher_left_shift_of_3.svg.png" weith ="10">
 
-This was my first code written in C# something I really appreciated and just wanted to share.
-Easy to follow with respective comments.
+This has been my first project in C# which I really appreciate and simply wanted to share.
+**Easy to follow with.**
 
 
 
-**Console output display**
+## Console output display
 
 <img src = "img/console.png" weith ="10">
