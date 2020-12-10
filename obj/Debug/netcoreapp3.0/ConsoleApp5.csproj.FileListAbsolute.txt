@@ -1,0 +1,24 @@
+C:\Users\alexsandy\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\alexsandy\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\alexsandy\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\alexsandy\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.exe
+C:\Users\alexsandy\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.deps.json
+C:\Users\alexsandy\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.runtimeconfig.json
+C:\Users\alexsandy\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\alexsandy\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.dll
+C:\Users\alexsandy\source\repos\ConsoleApp5\bin\Debug\netcoreapp3.0\ConsoleApp5.pdb
+C:\Users\alexsandy\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.dll
+C:\Users\alexsandy\source\repos\ConsoleApp5\obj\Debug\netcoreapp3.0\ConsoleApp5.pdb
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\obj\Debug\netcoreapp3.0\ConsoleApp5.dll
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\obj\Debug\netcoreapp3.0\ConsoleApp5.pdb
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\bin\Debug\netcoreapp3.0\ConsoleApp5.exe
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\bin\Debug\netcoreapp3.0\ConsoleApp5.deps.json
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\bin\Debug\netcoreapp3.0\ConsoleApp5.runtimeconfig.json
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\bin\Debug\netcoreapp3.0\ConsoleApp5.runtimeconfig.dev.json
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\bin\Debug\netcoreapp3.0\ConsoleApp5.dll
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\bin\Debug\netcoreapp3.0\ConsoleApp5.pdb
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\obj\Debug\netcoreapp3.0\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\obj\Debug\netcoreapp3.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\obj\Debug\netcoreapp3.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\obj\Debug\netcoreapp3.0\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\kemil\OneDrive\Desktop\proyects\Codigo Cesar\obj\Debug\netcoreapp3.0\ConsoleApp5.genruntimeconfig.cache
